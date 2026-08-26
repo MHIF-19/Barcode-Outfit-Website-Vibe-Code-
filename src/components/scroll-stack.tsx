@@ -90,7 +90,7 @@ export function ScrollStack({
 
     const stackPositionPx = parsePosition(stackPosition, viewportHeight);
     const scaleEndPositionPx = parsePosition(scaleEndPosition, viewportHeight);
-    const endElement = stackRef.current.querySelector(".scroll-stack-end");
+    const endElement = stackRef.current.querySelector<HTMLElement>(".scroll-stack-end");
     const endTop = endElement ? getDocumentTop(endElement) : scrollTop;
     const pinEnd = endTop - viewportHeight / 2;
     let topCardIndex = 0;
