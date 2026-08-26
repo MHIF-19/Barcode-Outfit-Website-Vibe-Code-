@@ -11,7 +11,7 @@ const OFFERS = [
     price: "Rs. 2600",
     title: "2 Jeans",
     copy: "Double up on everyday denim.",
-    image: "/hero/Gemini_Generated_Image_ckp0luckp0luckp0.jfif",
+    image: "/hero/Gemini_Generated_Image_ckp0luckp0luckp0.jpeg",
     tone: "bg-[#d8d1c4] text-ink",
   },
   {
@@ -19,7 +19,7 @@ const OFFERS = [
     price: "Rs. 2400",
     title: "2 Polo T-Shirts",
     copy: "Two polished layers for less.",
-    image: "/hero/Gemini_Generated_Image_orss4porss4porss.jfif",
+    image: "/hero/Gemini_Generated_Image_orss4porss4porss.jpeg",
     tone: "bg-[#b7c5c1] text-ink",
   },
   {
@@ -27,7 +27,7 @@ const OFFERS = [
     price: "Rs. 1500",
     title: "3 T-Shirts",
     copy: "Build your daily rotation.",
-    image: "/hero/Gemini_Generated_Image_tmj329tmj329tmj3.jfif",
+    image: "/hero/Gemini_Generated_Image_tmj329tmj329tmj3.jpeg",
     tone: "bg-[#d7b3a9] text-ink",
   },
 ];
